@@ -1,0 +1,4 @@
+Mary, ./home, 1000
+Alick, ./cart, 2000
+Bob, ./cart?id=100, 2000
+Bob, ./home, 1000
